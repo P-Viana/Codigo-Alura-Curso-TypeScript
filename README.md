@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Typescript: orientação a objetos](https://imgur.com/9399vxd.png)
 
 # Typescript: orientação a objetos
@@ -14,3 +15,8 @@ O projeto contará com o desenvolvimento de:
 - Métodos estáticos;
 - Herança de classes;
 - Decorators de validação.
+=======
+# Codigo-Alura-Curso-TypeScript
+Desenvolvido durante o curso <b> TypeScript na prática: implemente um projeto completo com TypeScript e módulos </b> da Alura! <br>
+O desenvolvido por mim é apenas o TypeScript!
+>>>>>>> c7a4909e62cf3eab55c97ebd06d4d2f1e833f867

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 {
+=======
+{ 
+>>>>>>> c7a4909e62cf3eab55c97ebd06d4d2f1e833f867
     "compilerOptions": {
         "target": "ES2022",
         "outDir": "./dist/js/",
